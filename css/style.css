@@ -36,6 +36,7 @@ img {border:none}
 .logo {position:absolute; left:-3px; top:64px}
 
 .header-social {position:absolute; left:370px; top:63px}
+.header-social-title {position:absolute; left:-80px; top:19px; width:70px; text-align:right; color:#b7b7b8; font:bold 7px/9px arial, helvetica, sans-serif; text-transform:uppercase}
 .header-social ul {float:left; margin:0; padding:0; list-style:none}
 .header-social ul li {float:left; padding:0 10px 0 0; margin:0}
 .header-social ul li a {float:left; width:62px; height:62px; background:url(../images/header-social.png)}
