@@ -1,0 +1,27 @@
+.header,
+.banner,
+.breadcrumbs,
+.side,
+.footer,
+.text-page-top-print,
+.text-page-top-2,
+.comments-title,
+.comments,
+.text-page-author-photo em,
+.content-sort {display:none}
+
+.text-page {width:auto}
+.container {width:auto}
+
+.wrapper-inner {padding:0}
+
+.body {background:none}
+
+.text-page h2,
+.text-page h3,
+.text-page-author-name {font-family:arial, helvetica, sans-serif}
+
+a,
+a:hover,
+a:active,
+a:visited {text-decoration:none; color:#000}
